@@ -6,7 +6,7 @@
 	<groupId>com.training.microservices</groupId>
 	<artifactId>EmployeeManagement</artifactId>
 	<version>1.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>EmployeeManagement</name>
 	<description>EmployeeManagement in Spring Boot</description>
